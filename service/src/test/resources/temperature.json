@@ -1,0 +1,34 @@
+{
+  "temperatures": [
+    {
+      "id": "2",
+      "temperature": 16.151005644635603,
+      "unit": "C"
+    },
+    {
+      "id": "23",
+      "temperature": -10.224050519591596,
+      "unit": "F"
+    },
+    {
+      "id": "3",
+      "temperature": 21.20920908097071,
+      "unit": "C"
+    },
+    {
+      "id": "1",
+      "temperature": 18.576244762640304,
+      "unit": "C"
+    },
+    {
+      "id": "44",
+      "temperature": 86.54,
+      "unit": "F"
+    },
+    {
+      "id": "4",
+      "temperature": 20.844975228831053,
+      "unit": "C"
+    }
+  ]
+}
